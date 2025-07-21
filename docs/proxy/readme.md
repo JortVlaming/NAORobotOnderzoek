@@ -1,14 +1,21 @@
 # proxy progress
 
+Voortgang met onderzoek van specifieke proxies.
+
+Proxies zijn op dezelfde volgorde als de [officiele lijst](http://doc.aldebaran.com/2-8/naoqi/index.html)
+
+> [!NOTE]
+> Deprecated proxies en Deprecated Methodes worden niet onderzocht
+
 ---
 
-🟥 not started
+🟥 Not started
 <br>
 🟧 Started
 <br>
-🟩 completed
+🟩 Completed
 
-## Core
+## [Core](core/)
 🟥 ALBehaviorManager
 <br>
 🟥 ALConnectionManager
@@ -47,14 +54,14 @@
 
 ---
 
-## Emotion
+## [Emotion](emotion/)
 🟥 ALMood
 <br>
 🟥 ALRobotMood
 
 ---
 
-## Interaction Engines
+## [Interaction Engines](interaction_engines/)
 🟥 ALAutonomousBlinking
 <br>
 🟥 ALAutonomousLife
@@ -71,7 +78,7 @@
 
 ---
 
-## Motion
+## [Motion](motion/)
 🟥 ALAnimationPlayer
 <br>
 🟥 ALMotion
@@ -86,7 +93,7 @@
 
 ---
 
-## Audio
+## [Audio](audio/)
 🟥 ALAnimatedSpeech
 <br>
 🟥 ALAudioDevice
@@ -107,7 +114,7 @@
 
 ---
 
-## Vision
+## [Vision](vision/)
 🟥 ALBacklightingDetection
 <br>
 🟥 ALBarcodeReader
@@ -138,7 +145,7 @@
 
 ---
 
-## People perception
+## [People perception](people_perception/)
 🟥 ALEngagementZones
 <br>
 🟥 ALFaceCharacteristics
@@ -155,7 +162,7 @@
 
 ---
 
-## Sensors & LEDs
+## [Sensors & LEDs](sensors_and_leds/)
 🟥 ALBattery
 <br>
 🟥 ALBodyTemperature
@@ -176,5 +183,5 @@
 
 ---
 
-## LoLa
+## [LoLa](lola/)
 🟥 LoLa
